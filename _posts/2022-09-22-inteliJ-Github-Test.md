@@ -1,5 +1,5 @@
 ---
-title: "inteliJ github post test"
+title: "intelliJ github post test"
 excerpt: "testing how to use markdown"
 categories: [Testing Categories]
 tags: [Markdown, MD]
@@ -7,12 +7,12 @@ toc: true
 toc_sticky: true
 ---
 
-## Upload From inteliJ
+## Upload From intelliJ
 ===============
 ***
 ### How to use MarkDown
 ***
-this file is pushed from inteliJ
+this file is pushed from intelliJ
 >testing
 > >wow...</br>
 > >testing
@@ -50,10 +50,11 @@ list?
 
 ***
 #### Table
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+|-----------|-------------|
+| Header    | Title       |
+| Paragraph | Text        |
+
 
 > 테이블이 왜 안뜰까요?
 
