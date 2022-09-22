@@ -1,5 +1,5 @@
 ---
-title: "github post test"
+title: "inteliJ github post test"
 excerpt: "testing how to use markdown"
 categories: [Testing Categories]
 tags: [Markdown, MD]
@@ -38,7 +38,7 @@ print(i)
 ~~~
 
 ***
-####List
+#### List
 list?
 +sdfa
 +Asdf
@@ -49,12 +49,14 @@ list?
 3. wierd
 
 ***
-####Table
+#### Table
 | Syntax | Description |
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
+> 테이블이 왜 안뜰까요?
+
 ***
-####Link
+#### Link
 [JetBrains](https://www.jetbrains.com)
