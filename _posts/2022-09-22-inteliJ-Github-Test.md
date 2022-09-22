@@ -8,7 +8,6 @@ toc_sticky: true
 ---
 
 ## Upload From intelliJ
-===============
 ***
 ### How to use MarkDown
 ***
@@ -22,10 +21,14 @@ this file is pushed from intelliJ
 ***
 
 #### Code Block
-'''python
-in
+```cpp
+int main() {
+  
+}
+```
 
-...
+
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
