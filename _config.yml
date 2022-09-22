@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Young's Github Blog ??"
+title                    : "Min Young's Github Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Min Young Choi"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Min Young Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "asasfasdfasf"
   location         : "Korea, Sungnam-Si"
   email            :
   links:
