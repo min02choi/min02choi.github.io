@@ -53,10 +53,16 @@ list?
 
 ***
 #### Table
-| Syntax    | Description |
-|-----------|-------------|
-| Header    | Title       |
-| Paragraph | Text        |
+| Syntax    |Description|
+|-----------|---|
+| Header    | Title     |
+| Paragraph | Text      |
+
+|기본값|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
+|---|:---|:---:|---:|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 
 
 > 테이블이 왜 안뜰까요??
