@@ -53,10 +53,10 @@ list?
 
 ***
 #### Table
-| Syntax    |Description|
-|-----------|---|
-| Header    | Title     |
-| Paragraph | Text      |
+| Syntax    |Description|     |
+|-----------|---|-----|
+| Header    | Title     |     |
+| Paragraph | Text      |     |
 
 |기본값|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
 |---|:---|:---:|---:|
