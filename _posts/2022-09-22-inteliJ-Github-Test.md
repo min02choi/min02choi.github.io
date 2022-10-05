@@ -1,7 +1,7 @@
 ---
 title: "intelliJ github post test"
 excerpt: "testing how to use markdown"
-categories: [Testing Categories]
+categories: [Markdown]
 tags: [Markdown, MD]
 toc: true
 toc_sticky: true
