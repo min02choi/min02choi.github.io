@@ -1,8 +1,8 @@
 ---
 title: "Shinhan BigData Contest"
 excerpt: "신한 빅데이터 관련"
-categories: [Contest]
-tags: [Contest]
+categories: [shinhanbigdata]
+tags: [shinhanbigdata]
 toc: true
 toc_sticky: true
 ---
