@@ -1,10 +1,10 @@
 ---
-title: "신한 빅데이터 대회"
+title: "Markdown"
 layout: archive
-permalink: categories/shinhanbigdata
+permalink: categories/etc
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.shinhanbigdata %}
+{% assign posts = site.categories.Markdown %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
