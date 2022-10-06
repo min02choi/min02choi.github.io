@@ -1,10 +1,10 @@
 ---
-title: "일기장"
+title: "Temporary"
 layout: archive
-permalink: categories/personal
+permalink: categories/etc
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.Daily %}
+{% assign posts = site.categories.Temporary %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
