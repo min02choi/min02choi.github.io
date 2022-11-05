@@ -70,3 +70,17 @@ list?
 ***
 #### Link
 [JetBrains](https://www.jetbrains.com)
+
+
+***
+tofu :fire
+
+🔥
+📍
+🍠
+🚀
+🕜
+🔢
+1️⃣🔢
+2️⃣
+🔑
