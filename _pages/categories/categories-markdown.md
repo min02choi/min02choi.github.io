@@ -1,7 +1,7 @@
 ---
 title: "Markdown"
 layout: archive
-permalink: categories/etc
+permalink: categories/etc/markdown
 author_profile: true
 sidebar_main: true
 ---

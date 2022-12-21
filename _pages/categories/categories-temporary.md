@@ -1,7 +1,7 @@
 ---
 title: "Temporary"
 layout: archive
-permalink: categories/etc
+permalink: categories/etc/temporary
 author_profile: true
 sidebar_main: true
 ---

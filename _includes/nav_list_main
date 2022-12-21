@@ -63,14 +63,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Markdown" %}
-                        <li><a href="/categories/etc" class="">Markdown ({{category[1].size}})</a></li>
+                        <li><a href="/categories/etc/markdown" class="">Markdown ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Temporary" %}
-                        <li><a href="/categories/etc" class="">Temporary ({{category[1].size}})</a></li>
+                        <li><a href="/categories/etc/temporary" class="">Temporary ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
