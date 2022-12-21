@@ -1,10 +1,10 @@
 ---
-title: "C++ 프로그래밍"
+title: "SQL"
 layout: archive
-permalink: categories/programming-language
+permalink: categories/study
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.Cpp %}
+{% assign posts = site.categories.SQL %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
