@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 layout: archive
-permalink: categories/study
+permalink: categories/study/machine-learning
 author_profile: true
 sidebar_main: true
 ---

@@ -18,7 +18,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
                 {% for category in site.categories %}
                     {% if category[0] == "Daily" %}
-                        <li><a href="/categories/personal" class="">Daily({{category[1].size}})</a></li>
+                        <li><a href="/categories/personal/daily" class="">Daily({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -47,14 +47,14 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
                 {% for category in site.categories %}
                     {% if category[0] == "SQL" %}
-                        <li><a href="/categories/study" class="">SQL ({{category[1].size}})</a></li>
+                        <li><a href="/categories/study/sql" class="">SQL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "MachineLearning" %}
-                        <li><a href="/categories/study" class="">Machine Learning ({{category[1].size}})</a></li>
+                        <li><a href="/categories/study/machine-learning" class="">Machine Learning ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

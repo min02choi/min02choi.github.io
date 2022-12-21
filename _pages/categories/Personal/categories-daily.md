@@ -1,7 +1,7 @@
 ---
 title: "일기장"
 layout: archive
-permalink: categories/personal
+permalink: categories/personal/daily
 author_profile: true
 sidebar_main: true
 ---
