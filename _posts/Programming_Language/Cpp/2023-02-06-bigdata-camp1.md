@@ -1,5 +1,5 @@
 ---
-title: "Big Data Camp 2월 6일"
+title: "BigData Camp 2월 6일"
 excerpt: "새로 카테고리 만들어서 옮길 것"
 categories: [Cpp]
 tags: [cpp]

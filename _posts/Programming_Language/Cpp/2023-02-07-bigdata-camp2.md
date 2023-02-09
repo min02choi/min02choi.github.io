@@ -1,6 +1,6 @@
 ---
-title: "Big Data Camp 2월 7일"
-excerpt: "새로 카테고리 만들어서 옮길 것"
+title: "[Plotly] 그래프 그리기"
+excerpt: "BigData Camp 2월 7일"
 categories: [Cpp]
 tags: [cpp]
 toc: true

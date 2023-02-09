@@ -1,6 +1,6 @@
 ---
-title: "Big Data Camp 2월 8일"
-excerpt: "새로 카테고리 만들어서 옮길 것"
+title: "[Dash] 데이터 시각화하기"
+excerpt: "BigData Camp 2월 8일"
 categories: [Cpp]
 tags: [cpp]
 toc: true
