@@ -25,6 +25,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Playlist" %}
+                        <li><a href="/categories/personal/playlist" class="">Playlist ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "BookReview" %}
                         <li><a href="/categories/personal/book-review" class="">Book Review ({{category[1].size}})</a></li>
                     {% endif %}
