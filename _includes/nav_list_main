@@ -16,9 +16,17 @@
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
+
                 {% for category in site.categories %}
                     {% if category[0] == "Daily" %}
                         <li><a href="/categories/personal/daily" class="">Daily ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "BookReview" %}
+                        <li><a href="/categories/personal/book-review" class="">Book Review ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
