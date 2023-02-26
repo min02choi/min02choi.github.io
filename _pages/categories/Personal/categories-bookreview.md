@@ -6,5 +6,5 @@ author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.Book_Review %}
+{% assign posts = site.categories.BookReview %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
