@@ -292,3 +292,5 @@ defaults:
       related: true
       mathjax: true
       sidebar_main: true
+
+future: true    # 미래의 게시글로 블로그에서 보이도록 설정
