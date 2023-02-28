@@ -1,5 +1,5 @@
 ---
-title: "Regression Analysis"
+title: "회귀분석 입문"
 layout: archive
 permalink: categories/smwu/regression-analysis
 author_profile: true

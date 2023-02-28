@@ -1,5 +1,5 @@
 ---
-title: "Database"
+title: "데이터베이스"
 layout: archive
 permalink: categories/smwu/database
 author_profile: true
