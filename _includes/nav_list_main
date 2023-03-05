@@ -60,6 +60,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "DataScience" %}
+                        <li><a href="/categories/smwu/data-science" class="">Data Science({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
 
         <span class="nav__sub-title">Programming Language</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
