@@ -1,5 +1,5 @@
 ---
-title: "일기장"
+title: "BAEKJOON"
 layout: archive
 permalink: categories/coding-test/baekjoon
 author_profile: true
