@@ -127,6 +127,13 @@
         <span class="nav__sub-title">Etc</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "ADsP" %}
+                        <li><a href="/categories/etc/adsp" class="">ADsP ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Markdown" %}
                         <li><a href="/categories/etc/markdown" class="">Markdown ({{category[1].size}})</a></li>
                     {% endif %}
