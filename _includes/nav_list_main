@@ -92,6 +92,22 @@
                 {% endfor %}
             </ul>
 
+        <span class="nav__sub-title">Python</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Numpy" %}
+                        <li><a href="/categories/python/numpy" class="">Numpy({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Django" %}
+                        <li><a href="/categories/python/django" class="">Django ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">Study</span>
             <ul>
                 {% for category in site.categories %}
