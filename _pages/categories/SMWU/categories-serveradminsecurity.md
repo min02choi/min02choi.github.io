@@ -1,10 +1,10 @@
 ---
-title: "회귀분석 입문"
+title: "서버운영및보안"
 layout: archive
-permalink: categories/smwu/regression-analysis
+permalink: categories/smwu/server-admin-security
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.RegressionAnalysis %}
+{% assign posts = site.categories.SeverAdminSecurity %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
