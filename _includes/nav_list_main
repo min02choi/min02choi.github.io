@@ -49,28 +49,28 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CloudComputing" %}
-                        <li><a href="/categories/smwu/cloud-computing" class="">Cloud Computing({{category[1].size}})</a></li>
+                        <li><a href="/categories/smwu/cloud-computing" class="">Cloud Computing ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "ServerAdminSecurity" %}
-                        <li><a href="/categories/smwu/server-admin-security" class="">Server Administration And Security({{category[1].size}})</a></li>
+                        <li><a href="/categories/smwu/server-admin-security" class="">Server Administration And Security ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "DataScience" %}
-                        <li><a href="/categories/smwu/data-science" class="">Data Science({{category[1].size}})</a></li>
+                        <li><a href="/categories/smwu/data-science" class="">Data Science ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Network" %}
-                        <li><a href="/categories/smwu/network" class="">Network({{category[1].size}})</a></li>
+                        <li><a href="/categories/smwu/network" class="">Network ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -95,7 +95,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "C" %}
-                        <li><a href="/categories/programming-language/c" class="">C({{category[1].size}})</a></li>
+                        <li><a href="/categories/programming-language/c" class="">C ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -111,7 +111,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Numpy" %}
-                        <li><a href="/categories/python/numpy" class="">Numpy({{category[1].size}})</a></li>
+                        <li><a href="/categories/python/numpy" class="">Numpy ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
