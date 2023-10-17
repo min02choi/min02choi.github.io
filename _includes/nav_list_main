@@ -48,8 +48,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "AlgorithmBasic" %}
-                        <li><a href="/categories/smwu/algorithm-basic" class="">Algorithm Basic({{category[1].size}})</a></li>
+                    {% if category[0] == "CloudComputing" %}
+                        <li><a href="/categories/smwu/cloud-computing" class="">Cloud Computing({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
