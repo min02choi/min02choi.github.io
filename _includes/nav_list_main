@@ -78,6 +78,13 @@
         <span class="nav__sub-title">Project</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "GraduationProject" %}
+                        <li><a href="/categories/project/graduation-project" class="">Graduation Project ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "MasterpieceFilter" %}
                         <li><a href="/categories/project/masterpiece-filter" class="">Masterpiece Filter ({{category[1].size}})</a></li>
                     {% endif %}
