@@ -55,8 +55,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "ServerAdminSecurity" %}
-                        <li><a href="/categories/smwu/server-admin-security" class="">Server Administration And Security ({{category[1].size}})</a></li>
+                    {% if category[0] == "DataPatternRecognition" %}
+                        <li><a href="/categories/smwu/data-pattern-recognition" class="">Data Pattern Recognition ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
