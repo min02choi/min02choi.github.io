@@ -133,7 +133,7 @@
         <span class="nav__sub-title">Paper Review</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "NLP" %}cd I
+                    {% if category[0] == "NLP" %}
                         <li><a href="/categories/paper-review/nlp" class="">NLP ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
